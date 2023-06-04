@@ -7,19 +7,13 @@ This is a Landing page for a fashion brand
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-
+gi
 ## Overview
 This is a Landing page for a fashion brand
 
 ### Screenshot
 
-![](./public/images/screen1.png.jpg)
-![](./public/images/screen2.png.jpg)
-![](./public/images/screen3.png.jpg)
-![](./public/images/screen4.png.jpg)
-![](./public/images/screen5.png.jpg)
-![](./public/images/screen6.png.jpg)
-![](./public/images/screen7.png.jpg)
+![](./public/images/screenshot.png)
 
 ### Links
 
